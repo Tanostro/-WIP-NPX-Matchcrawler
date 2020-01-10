@@ -1,0 +1,13 @@
+[
+{"region":"euw1","threads": 200},
+{"region":"na1","threads": 200},
+{"region":"kr","threads": 250},
+{"region":"eun1","threads": 150},
+{"region":"br1","threads": 150},
+{"region":"jp1","threads": 100},
+{"region":"la1","threads": 100},
+{"region":"la2","threads": 100},
+{"region":"oc1","threads": 100},
+{"region":"tr1","threads": 150},
+{"region":"ru","threads": 100}
+]

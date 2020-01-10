@@ -1,0 +1,13 @@
+{
+"apikey": "#########",
+"serverport": 9090,
+"ratelimit_1": 300,
+"ratelimit_2": 18000,
+"mysql_host": "#########",
+"mysql_db": "#####",
+"mysql_user": "#########",
+"mysql_password": "#######",
+"console_password": "######",
+"min_stats_entrys": 3000000,
+"stats_threadcount": 20
+}
